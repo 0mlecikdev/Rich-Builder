@@ -2,7 +2,7 @@
 
 ![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
-Rich Builder is a tool for creating custom rich-text elements in Roblox
+Rich Builder is a tool for easly creating custom Rich Texts in Roblox
 
 ## Example
 
